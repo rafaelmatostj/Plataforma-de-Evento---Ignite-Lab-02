@@ -1,5 +1,4 @@
 import { Player, Youtube, DefaultUi } from "@vime/react";
-import { gql, useQuery } from "@apollo/client";
 import { useGetLessonBySlugQuery } from "../graphql/generated"
 import { DiscordLogo, Lightning, FileArrowDown, CaretRight } from "phosphor-react";
 
